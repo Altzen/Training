@@ -57,7 +57,7 @@ public class Main {
         DivisionBy7 divisionBy7 = new DivisionBy7();
         divisionBy7.getDivisionBy7(numberInRage);
 
-        LitersIntoGallons litersIntoGallons = new LitersIntoGallons();
+        LitersAndGallons litersIntoGallons = new LitersAndGallons();
         litersIntoGallons.getLitersIntoGallons(gallon);
         litersIntoGallons.getGallonsIntoLiters(liter);
 
