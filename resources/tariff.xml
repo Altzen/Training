@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tariffs>
+	<tariff id="1">
+		<name>Smart</name>
+		<operatorName>Kyivstar</operatorName>
+		<payRoll>12</payRoll>
+		<callPrices id="1">
+			<insideNetwork>12</insideNetwork>
+			<outsideNetwork>12</outsideNetwork>
+			<fixedNumbers>12</fixedNumbers>
+		</callPrices>
+		<smsPrice>12</smsPrice>
+		<parameters id="1">
+			<favotiteNumber>1</favotiteNumber>
+			<tariffication>15 second</tariffication>
+			<connectionFee>12</connectionFee>
+		</parameters>
+	</tariff>
+	<tariff id="2">
+		<name>Ultra</name>
+		<operatorName>Life</operatorName>
+		<payRoll>12</payRoll>
+		<callPrices id="2">
+			<insideNetwork>13</insideNetwork>
+			<outsideNetwork>11</outsideNetwork>
+			<fixedNumbers>20</fixedNumbers>
+		</callPrices>
+		<smsPrice>13</smsPrice>
+		<parameters id="2">
+			<favotiteNumber>2</favotiteNumber>
+			<tariffication>1 minute</tariffication>
+			<connectionFee>2</connectionFee>
+		</parameters>
+	</tariff>
+	<tariff id="3">
+		<name>Simple</name>
+		<operatorName>Vodaphone</operatorName>
+		<payRoll>25</payRoll>
+		<callPrices id="3">
+			<insideNetwork>13</insideNetwork>
+			<outsideNetwork>11</outsideNetwork>
+			<fixedNumbers>2</fixedNumbers>
+		</callPrices>
+		<smsPrice>13</smsPrice>
+		<parameters id="2">
+			<favotiteNumber>2</favotiteNumber>
+			<tariffication>1 minute</tariffication>
+			<connectionFee>2</connectionFee>
+		</parameters>
+	</tariff>
+</tariffs>
